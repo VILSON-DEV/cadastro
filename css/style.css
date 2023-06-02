@@ -124,13 +124,19 @@ form .input{
         width:100%;
         height:0vh;
         background-color:red;
-     
+       
     }
     .marca .design{
         height:15vh;
-        
+       
     }
-
+    .design{
+        margin-top:-30px;
+        margin-bottom:15px;
+    }
+    form .header{
+      
+    }
     .form{
         width:100%;
         margin-bottom:20px;
