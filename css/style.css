@@ -94,6 +94,7 @@ form .input{
     padding:5px;
     border:none;
     border-radius:3px;
+    outline:none;
 }
 .input .submit{
     display:flex;
