@@ -18,7 +18,7 @@ section{
     flex-wrap:wrap;
     justify-content:center;
     align-items:center;
-    background-color:red;
+    background-color:rgb(2, 2, 2);
     margin:auto;
     height:100vh;
 }
@@ -29,7 +29,7 @@ section{
     align-items:center;
     width:50%;
     height:100vh;
-    background-color:rgb(214, 16, 16);
+    background-color:rgb(36, 36, 36);
     margin:auto;
 }
 .marca .design{
